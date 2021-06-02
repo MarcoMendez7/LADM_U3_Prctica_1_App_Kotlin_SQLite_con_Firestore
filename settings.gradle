@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "LADM_U3_Práctica_1_ App_Kotlin_SQLite_con_Firestore"

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836942386842",
+    "project_id": "ladm-u3-sqlite-con-firestore",
+    "storage_bucket": "ladm-u3-sqlite-con-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836942386842:android:139985c0493c1b329ff123",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_prctica_1_app_kotlin_sqlite_con_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836942386842-hfumrnn49u13p0btk8in4tnsq16kn1d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC47nSG5VqE7XhQTFvINHXlogjBDlKfNjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836942386842-hfumrnn49u13p0btk8in4tnsq16kn1d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
